@@ -4,3 +4,5 @@ This is the source code repository for the publication "ETFPOS-IDF: A Novel Term
 
 DOI: https://doi.org/10.1109/ACCESS.2022.3230592
 
+Note: Here, only the implementation of the scheme is added.
+
